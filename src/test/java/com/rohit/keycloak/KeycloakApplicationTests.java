@@ -1,4 +1,4 @@
-package com.alibou.keycloak;
+package com.rohit.keycloak;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

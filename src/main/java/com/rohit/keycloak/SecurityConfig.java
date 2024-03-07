@@ -1,4 +1,4 @@
-package com.alibou.keycloak;
+package com.rohit.keycloak;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
